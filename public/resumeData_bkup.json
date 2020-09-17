@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Abhishek Rajapurohit",
+    "occupation": "Polygot developer working on Microservices & Cloud technologies",
+    "description": "Javascript | MERN stack developement as a hobby",
+    "image": "fb_cover.jpg",
+    "bio": "My name is Abhishek, I'm a Java/Microservices/Cloud Apps developer by day, Javascript developer by night. Currently I'm working at Toshiba building a highly scalable platform for Retail/E-com application",
+    "contactmessage": "Get in touch with me for any opportunities / freelancing work.",
+    "email": "abhishek.rajapurohit@gmail.com",
+    "phone": "+91 9742276514",
+    "address": {
+      "street": "",
+      "city": "Bangalore",
+      "state": "India",
+      "zip": "560076"
+    },
+    "website": "https://www.linkedin.com/in/abhishekrajapurohit/",
+    "resumedownload": "https://drive.google.com/file/d/15OqkPK2AuNAnmzFsj9PPR0M7gXeMTm1c/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhishek.rajapurohit",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishekrajapurohit/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abheeshekraj/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abhiraj747",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A self motivated technology enthusiast, fascinated by constantly changing technology and willing to take up challenges. 9 years of Software Design/Development experience with passion for open source framework, Cloud technologies, scalable and fault tolerant distributed applications.Exploring Javascript technology stack as a hobby and profitable side gig.",
+    "education": [
+      {
+        "school": "Birla Institute of Technology and Science, Pilani",
+        "degree": "MS in Software Systems and Data Analytics",
+        "graduated": "April 2016",
+        "description": "8.4 GPA"
+      },
+      {
+        "school": "Siddaganga Institute of technology",
+        "degree": "BE in Computer Science",
+        "graduated": "June 2011",
+        "description": "8.91 GPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Toshiba India",
+        "title": "Senior Software Engineer",
+        "years": "Dec 2014 - Present",
+        "description": "Building highly scalable Next Generation Platform for Retail and e-com applications. Migrating all legacy retail systems to seamlessly upgrade to latest technologies. Building Scalable, Plug and Play platform using Microservices architecture and Cloud technologies like Spring cloud, Camunda as a Microservices orchestrator and Netflix OSS products"
+      },
+      {
+        "company": "Ugam",
+        "title": "Product Engineer",
+        "years": "Aug 2013 - Dec 2014",
+        "description": "Designed, developed and deployed one of its kind Business rule execution Infrastructure which involved use of Message Queuing , Distributed execution support for multi node clusters , REST Web Service implementation."
+      },
+      {
+        "company": "Huawei",
+        "title": "Software Engineer",
+        "years": "Jun 2011 - Aug 2013",
+        "description": "Worked among a team of 30 R&D Engineers to provide End to End Business solution for a product called Dynamic tarrifing a Business Intelligent product in Telecom domain. Followed strict Agile practices to provide a high quality product in a very short span of time. Handled creation and maintenance of a Data warehouse for Business Intelligent system by writing complex and efficient Stored Procedures, Triggers, and Functions in Oracle PL/SQL."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Microservices | Spring cloud | Spring boot | AWS",
+        "level": "75%"
+      },
+      {
+        "name": "React and Node js",
+        "level": "60%"
+      },
+      {
+        "name": "Mongo DB and MySQL DB",
+        "level": "80%"
+      },
+      {
+        "name": "Docker && Kubernetes",
+        "level": "70%"
+      },
+      {
+        "name": "J2EE | Spring MVC | Hibernate",
+        "level": "70%"
+      },
+      {
+        "name": "MQTT/Rabbit MQ | JUnit/Mockito | Kafka",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Toshiba Omnichannel POS",
+        "category": "Retail omnichannel platform",
+        "image": "tcx-elevate.png",
+        "url": "https://commerce.toshiba.com/wps/portal/marketing/?urile=wcm:path:/en-us/home/software/commerce-platforms/tcx-elevate-ecosystem"
+      },
+      {
+        "title": "Toshiba NGP Platform",
+        "category": "Next Generation Platform",
+        "image": "ttec.png",
+        "url": "https://www.toshibatec.com/cnt/solutions/retail/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Abhishek is an excellent mentor, team player and voracious learner. Having worked with him for the almost 2 years at Toshiba, I have seen him having good problem solving capabilities with great perseverance. He attacks the problem at hand with immense positivity which provides a great impact on the team. He has also suggested and improvised various aspects of the application which clearly showcases his creativity",
+        "user": "Anusha Ashok, Sr Java System Analyst at CGI"
+      },
+      {
+        "text": "Abhishek is one of the finest engineers I have worked with. Abhi is very versatile with his technical skills having worked on Backend, Frontend and algo kind of work. Abhi is also a very passionate and hardworking engineer. Even after all these years you see him burn the night oil to get his stuff done. The most exciting part about Abhi is his cool composure and pleasant nature. He is universally liked by his team members and have never ever seen any complaints from anyone. He sure is an asset on any team!",
+        "user": "Sunil Kumar T C , Manager at Jio"
+      }
+    ]
+  }
+}
