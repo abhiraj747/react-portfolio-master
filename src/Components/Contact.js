@@ -4,7 +4,7 @@ const Contact = ({ data }) => {
    const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
-   const [email, setEmail] = useState('');
+   const [email, setEmail] = useState('abhishek.rajapurohit@gmail.com');
    const [message, setMessage] = useState('');
 
    console.log(data)
